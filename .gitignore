@@ -1,0 +1,10 @@
+.venv/
+*.log
+*.hex
+*.bin
+.bravia_state.json
+bugreport_extracted/
+init_analysis.txt
+.daemon_restart
+*.log.old
+__pycache__/

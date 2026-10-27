@@ -1,0 +1,10 @@
+[project]
+name = "sony-soundbar-ble"
+version = "0.1.0"
+description = "Control Sony soundbar (HT-B600) volume over BLE on Windows"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bleak>=3.0.2",
+    "pywin32>=312",
+]
